@@ -55,7 +55,7 @@ Licencja: MIT
 | Lp | Nazwa produktu | Przeznaczenie w projekcie | Wersja  | 
 |:-:|:-|:-|:-:|
 |1|Android Studio|Środowisko IDE używane przy tworzeniu projektu||
-|2|Windows 10 |System operacyjny używany przy tworzeniu projektu||
+|2|Windows 10 |System operacyjny używany przy tworzeniu projektu|10.0.19041.867|
 |3|Git| Systemy kontroli wersji aplikacji |2.31.1|
 |4|GitHub| Utrzymywanie projektu na serwerze, do którego mają dostęp członkowie zespołu||
 
