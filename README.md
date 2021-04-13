@@ -31,14 +31,14 @@ Licencja: MIT
 #### Wymagania niefunkcjonalne
 | Identyfikator | Kategoria | Podkategoria | Nazwa krótka | Opis | Priorytet |
 |:-:|:-:|:-|:-|:-|:-:|
-|1|niefunkcjonalne|Statystyki||Dokładny zapis statystyk ulubionych atrakcji|2|
+|1|niefunkcjonalne|Statystyki||Dokładny zapis statystyk ulubionych atrakcji|1|
 |2|niefunkcjonalne|Nawigacja||Szybka nawigacja w aplikacji |1|
 |3|niefunkcjonalne|GUI|Wygląd interfejsów|Intuicyjny i estetyczny interfejs|1|
 |4|niefunkcjonalne|Bezpieczeństwo|Ocena cyberbezpieczeństwa|Ocena bezpieczeństwa skupia się na zredagowaniu protokołów bezpieczeństwa oraz list kontrolnych, wprowadzeniu standardów pisania kodu, wprowadzeniu zapór bezpieczeństwa i strategii długoterminowej.|3|
-|4|niefunkcjonalne|Bezpieczeństwo|Testy penetracyjne|Ocena bieżącego stanu bezpieczeństwa w sposób przeprowadzeniu kontrolowanego ataku|3|
-|5|niefunkcjonalne|Elastyczność integracji|Integracja z serwisami społecznościowymi|Elastyczność pod względem możliwości integracji z innymi popularnymi serwisami społecznościowymi |3|
-|6|niefunkcjonalne|Dostępność|| Dostęp dla użytkowników do użytku w dowolnym momencie |1|
-|7|niefunkcjonalne|Prywatność||Zachowanie prywatności użytkowników|2|
+|5|niefunkcjonalne|Bezpieczeństwo|Testy penetracyjne|Ocena bieżącego stanu bezpieczeństwa w sposób przeprowadzeniu kontrolowanego ataku|3|
+|6|niefunkcjonalne|Elastyczność integracji|Integracja z serwisami społecznościowymi|Elastyczność pod względem możliwości integracji z innymi popularnymi serwisami społecznościowymi |3|
+|7|niefunkcjonalne|Dostępność|--| Dostęp dla użytkowników do użytku w dowolnym momencie |1|
+|8|niefunkcjonalne|Prywatność|--|Zachowanie prywatności użytkowników|2|
 
 
 ### 4. Projekt (język UML)
