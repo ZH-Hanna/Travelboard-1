@@ -47,9 +47,10 @@ Licencja: MIT
 #### Architektura rozwoju 
 | Lp | Nazwa produktu | Przeznaczenie w projekcie | Wersja  | 
 |:-:|:-|:-|:-:|
-|1|Java||8|
-|2|SQLite|Zarządzanie relacyjną bazą danych z atrakcjiami | 3.35.3 |
-|3|DBFlow||4.2.4|
+|1|Java|Backend aplikacji|8|
+|2|xml|Struktura widoków aplikacji|--|
+|3|SQLite|Zarządzanie relacyjną bazą danych z atrakcjiami | 3.35.3 |
+
 
 #### Architektura uruchomieniowa 
 | Lp | Nazwa produktu | Przeznaczenie w projekcie | Wersja  | 
