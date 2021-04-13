@@ -47,7 +47,7 @@ Licencja: MIT
 #### Architektura rozwoju 
 | Lp | Nazwa produktu | Przeznaczenie w projekcie | Wersja  | 
 |:-:|:-|:-|:-:|
-|1|Java|||
+|1|Java||8|
 |2|SQLite| | 3.35.3 |
 |3|DBFlow||4.2.4|
 
