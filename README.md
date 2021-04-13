@@ -48,7 +48,7 @@ Licencja: MIT
 | Lp | Nazwa produktu | Przeznaczenie w projekcie | Wersja  | 
 |:-:|:-|:-|:-:|
 |1|Java|Backend aplikacji|8|
-|2|xml|Struktura widoków aplikacji|--|
+|2|Xml|Frontend aplikacji|--|
 |3|SQLite|Zarządzanie relacyjną bazą danych z atrakcjiami | 3.35.3 |
 
 
