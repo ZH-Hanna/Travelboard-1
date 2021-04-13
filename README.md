@@ -31,7 +31,7 @@ Licencja: MIT
 #### Wymagania niefunkcjonalne
 | Identyfikator | Kategoria | Podkategoria | Nazwa krótka | Opis | Priorytet |
 |:-:|:-:|:-|:-|:-|:-:|
-|1|niefunkcjonalne|Statystyki||Dokładny zapis statystyk|2|
+|1|niefunkcjonalne|Statystyki||Dokładny zapis statystyk ulubionych atrakcji|2|
 |2|niefunkcjonalne|Nawigacja||Szybka nawigacja w aplikacji |1|
 |3|niefunkcjonalne|GUI|Wygląd interfejsów|Intuicyjny i estetyczny interfejs|1|
 |4|niefunkcjonalne|Bezpieczeństwo|Ocena cyberbezpieczeństwa|Ocena bezpieczeństwa skupia się na zredagowaniu protokołów bezpieczeństwa oraz list kontrolnych, wprowadzeniu standardów pisania kodu, wprowadzeniu zapór bezpieczeństwa i strategii długoterminowej.|3|
