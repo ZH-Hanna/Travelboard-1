@@ -32,7 +32,7 @@ Licencja: MIT
 | Identyfikator | Kategoria | Podkategoria | Nazwa krótka | Opis | Priorytet |
 |:-:|:-:|:-|:-|:-|:-:|
 |1|niefunkcjonalne|Statystyki||Dokładny zapis statystyk ulubionych atrakcji|1|
-|2|niefunkcjonalne|Nawigacja||Szybka nawigacja w aplikacji |1|
+|2|niefunkcjonalne|GUI|Nawigacja|Szybka nawigacja w aplikacji |1|
 |3|niefunkcjonalne|GUI|Wygląd interfejsów|Intuicyjny i estetyczny interfejs|1|
 |4|niefunkcjonalne|Bezpieczeństwo|Ocena cyberbezpieczeństwa|Ocena bezpieczeństwa skupia się na zredagowaniu protokołów bezpieczeństwa oraz list kontrolnych, wprowadzeniu standardów pisania kodu, wprowadzeniu zapór bezpieczeństwa i strategii długoterminowej.|3|
 |5|niefunkcjonalne|Bezpieczeństwo|Testy penetracyjne|Ocena bieżącego stanu bezpieczeństwa w sposób przeprowadzeniu kontrolowanego ataku|3|
