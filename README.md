@@ -43,9 +43,16 @@ Licencja: MIT
 
 ### 4. Projekt (język UML)
 
-#### Diagram wdrożenia
+#### ⠀Diagram wdrożenia
 
 ![alt text](img/dw.png)
+⠀
+⠀
+⠀
+#### ⠀Diagram przypadków użycia 
+
+![alt text](img/Diagram.png)
+
 
 ### 5. Architektura systemu/oprogramowania
 
