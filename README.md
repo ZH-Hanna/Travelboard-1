@@ -98,11 +98,11 @@ Licencja: MIT
 ## 6. Scenariusze testów
 | Identyfikator | Priorytet |Kroki do wykonania | Oczekiwany rezultat |  
 |:-:|:-:|:-|:-|
-|R1||||
+|R1|1|||
 |R2|1|Kliknąć przycisk 'Mapa' w menu głównym|Wyświetlenie modułu z mapami (mapa z atrakcjami)|
-|R3||||
-|R4||||
-|R5||||
+|R3|1|||
+|R4|2|||
+|R5|3|||
 |R6|3|Kliknąć przycisk 'Pogoda' w ...|Wyświetlenie się modułu z pogodą|
-|R7||||
+|R7|2|||
 
