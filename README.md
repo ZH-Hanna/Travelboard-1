@@ -7,7 +7,7 @@
 - [Specyfikacja wymagań](#id-section3)
 - [Projekt (język UML)](#id-section4)
 - [Architektura systemu/oprogramowania](#id-section5)
-- [Testy](#id-section6)
+- [Scenariusze testów](#id-section6)
 
 
 <div id='id-section1'/>
