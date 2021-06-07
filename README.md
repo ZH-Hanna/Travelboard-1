@@ -1,6 +1,16 @@
 # Travelboard :earth_americas::v:
-## Dokumentacja: 
+ 
 
+## Dokumentacja:
+- [Charakterystyka  oprogramowania](#id-section1)
+- [Prawa autorskie](#id-section2)
+- [Specyfikacja wymagań](#id-section3)
+- [Projekt (język UML)](#id-section4)
+- [Architektura systemu/oprogramowania](#id-section5)
+- [Testy](#id-section6)
+
+
+<div id='id-section1'/>
 
 ## 1. Charakterystyka  oprogramowania 
 Nazwa skrócona: TravelBoard
@@ -10,10 +20,14 @@ Nazwa pełna: TravelBoard - asystent podróżnika
 Krótki opis: Aplikacja mobilna służąca jako asystent podróży, która pomoże użytkownikowi w wyborze atrakcji w podróży, pokazująca prognozę pogody w określonym miejscu i pozwalająca po przejrzeniu informacji prowadzić osobisty dziennik wpisów.
 
 
+<div id='id-section2'/>
+
 ## 2. Prawa autorskie 
 Autorzy: Eliza Sinkevich, Hanna Zhuk, Irina Frolova
 
 Licencja: MIT
+
+<div id='id-section3'/>
 
 ## 3. Specyfikacja wymagań
 
@@ -41,6 +55,9 @@ Licencja: MIT
 |8|niefunkcjonalne|Prywatność|--|Zachowanie prywatności użytkowników|2|
 
 
+
+<div id='id-section4'/>
+
 ## 4. Projekt (język UML)
 
 ### ⠀Diagram przypadków użycia 
@@ -52,6 +69,8 @@ Licencja: MIT
 ![alt text](img/dw.png)
 
 
+
+<div id='id-section5'/>
 
 ## 5. Architektura systemu/oprogramowania
 
@@ -71,6 +90,8 @@ Licencja: MIT
 |3|Git| Systemy kontroli wersji aplikacji |2.31.1|
 |4|GitHub| Utrzymywanie projektu na serwerze, do którego mają dostęp członkowie zespołu|--|
 
+
+<div id='id-section6'/>
 
 ## 6. Testy
 
