@@ -2,7 +2,7 @@
 ## Dokumentacja: 
 
 
-### 1. Charakterystyka  oprogramowania 
+## 1. Charakterystyka  oprogramowania 
 Nazwa skrócona: TravelBoard
 
 Nazwa pełna: TravelBoard - asystent podróżnika
@@ -10,12 +10,12 @@ Nazwa pełna: TravelBoard - asystent podróżnika
 Krótki opis: Aplikacja mobilna służąca jako asystent podróży, która pomoże użytkownikowi w wyborze atrakcji w podróży, pokazująca prognozę pogody w określonym miejscu i pozwalająca po przejrzeniu informacji prowadzić osobisty dziennik wpisów.
 
 
-### 2. Prawa autorskie 
+## 2. Prawa autorskie 
 Autorzy: Eliza Sinkevich, Hanna Zhuk, Irina Frolova
 
 Licencja: MIT
 
-### 3. Specyfikacja wymagań
+## 3. Specyfikacja wymagań
 
 #### Wymagania funkcjonalne
 | Identyfikator | Kategoria | Podkategoria | Nazwa krótka | Opis | Priorytet |
@@ -41,21 +41,21 @@ Licencja: MIT
 |8|niefunkcjonalne|Prywatność|--|Zachowanie prywatności użytkowników|2|
 
 
-### 4. Projekt (język UML)
+## 4. Projekt (język UML)
 
-#### ⠀Diagram przypadków użycia 
+### ⠀Diagram przypadków użycia 
 
 ![alt text](img/Diagram.png)
 
-#### ⠀Diagram wdrożenia
+### ⠀Diagram wdrożenia
 
 ![alt text](img/dw.png)
 
 
 
-### 5. Architektura systemu/oprogramowania
+## 5. Architektura systemu/oprogramowania
 
-#### Architektura rozwoju 
+### Architektura rozwoju 
 | Lp | Nazwa produktu | Przeznaczenie w projekcie | Wersja  | 
 |:-:|:-|:-|:-:|
 |1|Java|Backend aplikacji|8|
@@ -63,7 +63,7 @@ Licencja: MIT
 |3|SQLite|Zarządzanie relacyjną bazą danych z atrakcjiami | 3.35.3 |
 
 
-#### Architektura uruchomieniowa 
+### Architektura uruchomieniowa 
 | Lp | Nazwa produktu | Przeznaczenie w projekcie | Wersja  | 
 |:-:|:-|:-|:-:|
 |1|Android Studio|Środowisko IDE używane przy tworzeniu projektu|4.1.2|
@@ -72,5 +72,5 @@ Licencja: MIT
 |4|GitHub| Utrzymywanie projektu na serwerze, do którego mają dostęp członkowie zespołu|--|
 
 
-### 6. Testy
+## 6. Testy
 
