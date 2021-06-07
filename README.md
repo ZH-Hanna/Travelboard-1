@@ -97,10 +97,10 @@ Licencja: MIT
 | Identyfikator | Priorytet |Kroki do wykonania | Oczekiwany rezultat |  
 |:-:|:-:|:-|:-|
 |R1||||
-|R2||||
+|R2|1|Kliknąć przycisk 'Mapa' w menu głównym|Wyświetlenie modułu z mapami (mapa z atrakcjami)|
 |R3||||
 |R4||||
 |R5||||
-|R6||||
+|R6|3|Kliknąć przycisk 'Pogoda' w ...|Wyświetlenie się modułu z pogodą|
 |R7||||
 
