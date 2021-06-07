@@ -94,13 +94,13 @@ Licencja: MIT
 <div id='id-section6'/>
 
 ## 6. Scenariusze testów
-| Identyfikator | Kroki do wykonania | Oczekiwany rezultat |  
-|:-:|:-:|:-|
-|R1|||
-|R2|||
-|R3|||
-|R4|||
-|R5|||
-|R6|||
-|R7|||
+| Identyfikator | Priorytet |Kroki do wykonania | Oczekiwany rezultat |  
+|:-:|:-:|:-|:-|
+|R1||||
+|R2||||
+|R3||||
+|R4||||
+|R5||||
+|R6||||
+|R7||||
 
